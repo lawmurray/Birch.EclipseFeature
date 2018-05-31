@@ -2,7 +2,7 @@
 <feature
       id="Birch.EclipseFeature"
       label="Birch Editor"
-      version="1.0.0.qualifier">
+      version="1.0.1.qualifier">
 
    <description url="http://www.birch-lang.org">
       Editor with syntax highlighting for the Birch probabilistic programming language.
@@ -220,7 +220,7 @@
          id="BirchEditor"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.0.1.qualifier"
          unpack="false"/>
 
 </feature>
