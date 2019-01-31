@@ -3,6 +3,7 @@
 	<name>Birch.EclipseFeature</name>
 	<comment></comment>
 	<projects>
+		<project>Birch.Eclipse</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
